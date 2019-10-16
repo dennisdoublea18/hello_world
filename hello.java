@@ -5,8 +5,8 @@ public class hello {
     public static void main(String [] args) {
 
 
-        String firstName = "Elizabeth";
-        String lastName = "Jones";
+        String firstName = "Dennis";
+        String lastName = "Arias";
 	
         System.out.println("Hello Class!");
 
